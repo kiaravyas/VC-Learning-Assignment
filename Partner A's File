@@ -6,4 +6,9 @@ YES
 
 Hi from Charlie. 
 
+This stuff is merge stuff:
+<<<<<<< HEAD
 Goodby from Charlie. 
+=======
+Hi from Reed
+>>>>>>> 4d2649a0ccf1ff83ead525d028a49e919584237a
