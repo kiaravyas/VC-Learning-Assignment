@@ -2,4 +2,17 @@ Testing
 
 Opened
 
+<<<<<<< HEAD
 NO
+=======
+YES
+
+Hi from Charlie. 
+
+This stuff is merge stuff:
+<<<<<<< HEAD
+Goodby from Charlie. 
+=======
+Hi from Reed
+>>>>>>> 4d2649a0ccf1ff83ead525d028a49e919584237a
+>>>>>>> 1f5cac2ae391634667a267f36df54517780fb6d9
